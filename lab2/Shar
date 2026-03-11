@@ -132,3 +132,4 @@ begin
   Writeln('Нажмите Enter для выхода из программы...');
   Readln;
 end.
+ 
