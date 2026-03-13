@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.03.13 12:18:00.064.pas,C:\Users\LalaLonger\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\LalaLonger\Documents\RAD Studio\Projects\lab6_2\MainForm.pas</Transaction>
+    <Transaction>2026.03.13 12:18:00.064.dfm,C:\Users\LalaLonger\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\LalaLonger\Documents\RAD Studio\Projects\lab6_2\MainForm.dfm</Transaction>
+    <Transaction>2026.03.13 12:18:07.135.dproj,C:\Users\LalaLonger\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\LalaLonger\Documents\RAD Studio\Projects\lab6_2\GammaCipher.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
